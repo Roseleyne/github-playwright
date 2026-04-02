@@ -1,0 +1,16 @@
+{
+  "validSearch": {
+    "origin": "São Paulo",
+    "destination": "Rio de Janeiro",
+    "departureDate": "2026-05-10",
+    "returnDate": "2026-05-15",
+    "passengers": "2"
+  },
+  "invalidSearch": {
+    "origin": "",
+    "destination": "",
+    "departureDate": "",
+    "returnDate": "",
+    "passengers": ""
+  }
+}
